@@ -2,9 +2,9 @@ import java.util.Random;
 import java.util.Scanner;
 
 public class RockPaperScissors {
-    private static final String Rock = "rock";
-    private static final String Scissors = "scissors";
-    private static final String Paper = "paper";
+    private static final String Rock = "Rock";
+    private static final String Scissors = "Scissors";
+    private static final String Paper = "Paper";
 
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
